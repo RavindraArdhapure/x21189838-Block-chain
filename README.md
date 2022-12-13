@@ -1,13 +1,16 @@
-## Docker Hub URL for Image "
+## Docker Hub URL for Image ##
 ```https://hub.docker.com/repository/docker/ravindraardhapure1995/x21189838```
 
-## Pull an Image from Docker Hub"
+## Pull an Image from Docker Hub ##
 ```docker pull -- ravindraardhapure1995/x21189838:latest```
 
-## Build an Image ##
+## Run an image ##
+
+```docker run --name  x21189838 -p 8090:8080 x21189838```
+
+## Build an Image from Dockerfile##
 
 ```docker build --tag x21189838 .```
-
 
 ## Run an image ##
 
