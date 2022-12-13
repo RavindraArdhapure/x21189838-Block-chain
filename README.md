@@ -1,11 +1,17 @@
+## Docker Hub URL for Image "
+```https://hub.docker.com/repository/docker/ravindraardhapure1995/x21189838```
+
+## Pull an Image from Docker Hub"
+```docker pull -- ravindraardhapure1995/x21189838:latest```
+
 ## Build an Image ##
 
-```docker build --tag nci02 .```
+```docker build --tag x21189838 .```
 
 
 ## Run an image ##
 
-```docker run --name ncilab02 -p 8090:8080 nci02```
+```docker run --name  x21189838 -p 8090:8080 x21189838```
 
 ## Run the curl command ##
 
