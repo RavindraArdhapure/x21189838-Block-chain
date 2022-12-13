@@ -8,7 +8,7 @@
 
 ```docker run --name  x21189838 -p 8090:8080 x21189838```
 
-## Build an Image from Dockerfile##
+## Build an Image from Dockerfile ##
 
 ```docker build --tag x21189838 .```
 
